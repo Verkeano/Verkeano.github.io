@@ -1,0 +1,34 @@
+.title-text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.title {
+    height: 100vh;
+    align-items: center;
+}
+
+.self-talk {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20vh;
+}
+.profile-picture {	
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.links-part {
+    text-align: center;
+    height: 20vh;
+    width: 100%;
+    background-color: rgb(61, 44, 75); 
+
+}
+
+.github {
+    height: 100px;
+    width: 100px;
+}
